@@ -15,7 +15,7 @@ Logged out user can search for products
     AmazonApp.Search for Products
 
 Logged out user can view a product
-    [Tags]  Smoke  Search
+    [Tags]  Smoke
     AmazonApp.Search for Products
     AmazonApp.Select Product from Search Results
 
